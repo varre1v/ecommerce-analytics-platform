@@ -56,3 +56,6 @@ Thumbs.db
 # ========================
 .vscode/
 .idea/
+
+# Profiling Reports (too large for Git)
+docs/profiling_reports/*.html
